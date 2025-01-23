@@ -1,2 +1,2 @@
 # Demo
-Githb Demo.
+Github Demo.
